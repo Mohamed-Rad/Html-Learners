@@ -1,0 +1,24 @@
+<html>
+
+<head> 
+<title> HTML for intermediates </title>
+</head>
+
+<body>
+<font face="Andalus" color="Red" size="36"> <b> <Center> <u> <i> What </font> </b> </i> </center> </u> <font face="Andalus" color="Green" size="36"> <b> <Center> <u> <i> is </font> </b> </i> </center> </u> <font face="Andalus" color="Blue" size="36"> <b> <Center> <u> <i> (HTML)? </font> </b> </i> </center> </u>
+<br>
+<br>
+<br>
+<font face="Andalus" color="Green" size="8"> <b> <Center> <u> <i> Intermediates Edition™ </font> </b> </i> </center> </u>
+<br>
+<img src = "h.jpeg">  <img src = "h1.jpeg" align = "right" width = "250" height = "250">
+<br>
+<br>
+<br>
+<font face="Andalus" color="Blue" size="8"> <b> <u> <i> Lets begin with Secondary Codes or (Webpage Content Codes): </font> </b> </i> </u>
+<br>
+<br>
+<br>
+<font face="Andalus" color="Green" size="6"> <b> <Center> <u> <i> Now we got the secondary codes step by step we will learn it: </font> </b> </i> </center> </u>
+</body>
+</html>

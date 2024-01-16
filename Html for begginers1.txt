@@ -1,0 +1,101 @@
+<html>
+
+<head> 
+<title> HTML for beginners </title>
+</head>
+
+<body>
+<font face="Andalus" color="Red" size="36"> <b> <Center> <u> <i> What </font> </b> </i> </center> </u> <font face="Andalus" color="Green" size="36"> <b> <Center> <u> <i> is </font> </b> </i> </center> </u> <font face="Andalus" color="Blue" size="36"> <b> <Center> <u> <i> (HTML)? </font> </b> </i> </center> </u>
+<br>
+<br>
+<br>
+<font face="Andalus" color="Red" size="8"> <b> <Center> <u> <i> Beginners Edition™ </font> </b> </i> </center> </u>
+<br>
+<img src = "h.jpeg">  <img src = "h1.jpeg" align = "right" width = "250" height = "250">
+<br> 
+<br>
+<font face="Andalus" color="Blue" size="6"> <b> The 1st question: </font> </b>
+<br>
+<font face="Andalus" color="Red" size="6"> <b> What is meant by HTML word? </font> </b>
+<br>
+<font face="Times New Roman" color="Green" size="6"> <b> Ans: HTML or (Hyper Text Markup Language) is a programming language used in making websites,games and more of codeable applications. </font> </b>
+<br>
+<br>
+<br>
+<font face="Andalus" color="Blue" size="6"> <b> The 2nd question: </font> </b>
+<br>
+<font face="Andalus" color="Red" size="6"> <b> Does HTML works with codes? </font> </b>
+<br>
+<font face="Times New Roman" color="Green" size="6"> <b> Ans: Yes, It does for example:({p} , {br} , {b},.... etc) And now we will learn this codes and how to use it. </font> </b>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<font face="Times New Roman" color="Black" size="10"> <b> <center> Now we will divide codes into two parts: </font> </b> </center>
+<br>
+<br>
+<font face="Andalus" color="Red" size="6"> <b> Main Codes </font> </b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <font face="Andalus" color="Blue" size="6"> <b> Secondary Codes </font> </b>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<font face="Andalus" color="Green" size="8"> <b> Lets begin with: </font> </b>
+<br>
+<font face="Andalus" color="Red" size="6"> <b> Main Codes </font> </b>
+<br>
+<br>
+<br>
+<br>
+<br>
+<font face="Arial" color="Blue" size="6"> <b> But what are main codes? </font> </b>
+<br>
+<font face="Calibari" color="Red" size="6"> <b> Main Codes are the codes that show the structure of the website or how it will be written. </font> </b>
+<br>
+<br>
+<font face="Andalus" color="black" size="6"> <b> This codes are: </font> </b>
+<br>
+<br>
+<img src = "he.png" height = "700" width = "1400">
+<br>
+<br>
+<br>
+<br>
+<br>
+<font face="Andalus" color="red" size="10"> <b> 1. {html} and {/html}: </font> </b> &nbsp; &nbsp; &nbsp; <img src = "m.jpeg" width="450" height="200">
+<br>
+<font face="Andalus" color="blue" size="6"> <b> Those two codes are used for the website to know that the website is written in html </font> </b>
+<br>
+<br>
+<br>
+<font face="Andalus" color="red" size="10"> <b> 2. {head} and {/head}: </font> </b>  
+<br>
+<font face="Andalus" color="blue" size="6"> <b> Those two codes contains the head part of the webpage </font> </b>
+<br>
+<br>
+<br>
+<font face="Andalus" color="red" size="10"> <b> 3. {title} and {/title}: </font> </b>  
+<br>
+<font face="Andalus" color="blue" size="6"> <b> Those two codes where the webpage title is written and it is written between {head} and {/head} </font> </b>
+<br>
+<br>
+<br>
+<font face="Andalus" color="red" size="10"> <b> 4. {body} and {/body}: </font> </b>
+<br>
+<font face="Andalus" color="blue" size="6"> <b> Those two codes where the webpage content is written and it is written between {body} and {/body} </font> </b> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<font face="Andalus" color="green" size="10"> <b> Secondry Codes will be in Intermediate Edition© </font> </b> 
+<br>
+<a href = "file:///C:/Users/mayad/Desktop/HTML%20main.htm"> <- Return To Home Page </a>
+</body>
+
+</html>
